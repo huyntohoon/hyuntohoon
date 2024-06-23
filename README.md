@@ -13,13 +13,13 @@
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
 
 ## Experience & Activities
-동아대학교 알고리즘 동아리 활동 (2022 ~ 2024)
-구글 GDSC(Google Student Developer Club) (2022 ~ 2024)
-kakao x goorm 구름톤 참가(2023.05)
-SSAFY 11기 활동(2024.01 ~ )
+- 동아대학교 알고리즘 동아리 활동 (2022 ~ 2024)
+- 구글 GDSC(Google Student Developer Club) (2022 ~ 2024)
+- kakao x goorm 구름톤 참가(2023.05)
+- SSAFY 11기 활동(2024.01 ~ )
 
 ## award
-2022.12 동아대학교 DEVDAY 우수상
-2024.05 SSAFY 삼성 SW 아카데미 관통프로젝트 최우수상
+- 2022.12 동아대학교 DEVDAY 우수상
+- 2024.05 SSAFY 삼성 SW 아카데미 관통프로젝트 최우수상
 
 
